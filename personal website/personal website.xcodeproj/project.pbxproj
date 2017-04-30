@@ -1,0 +1,76 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		B283C80D1EB5C08100334465 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = index.html; path = ../index.html; sourceTree = "<group>"; };
+		B283C80E1EB64A2D00334465 /* media-gallery.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = "media-gallery.html"; path = "../media-gallery.html"; sourceTree = "<group>"; };
+		B283C8101EB6561000334465 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		B283C8061EB5C05000334465 = {
+			isa = PBXGroup;
+			children = (
+				B283C8101EB6561000334465 /* .gitignore */,
+				B283C80E1EB64A2D00334465 /* media-gallery.html */,
+				B283C80D1EB5C08100334465 /* index.html */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		B283C8071EB5C05000334465 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0800;
+			};
+			buildConfigurationList = B283C80A1EB5C05000334465 /* Build configuration list for PBXProject "personal website" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = B283C8061EB5C05000334465;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		B283C80B1EB5C05000334465 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		B283C80C1EB5C05000334465 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B283C80A1EB5C05000334465 /* Build configuration list for PBXProject "personal website" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B283C80B1EB5C05000334465 /* Debug */,
+				B283C80C1EB5C05000334465 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B283C8071EB5C05000334465 /* Project object */;
+}
